@@ -1,4 +1,4 @@
-## Hélio 😆
+## Hello 😆
 👨‍💻I’m currently learnin JavaScript.
 😄 Pronouns: He / him.
 <div style="display: inline_block"><br>
