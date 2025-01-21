@@ -12,9 +12,10 @@
   
   ##
  <div>
-   <a></a>
-   <img heigt="180em" src=https://github-readme-stats.vercel.app/api?username=kleisonvitoriano&show_icons=true&theme=radical />
-   <img heigt="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kleisonvitoriano&layout=donut&theme=radical />
+   <a>
+    <img height="180em"  src=https://github-readme-stats.vercel.app/api?username=kleisonvitoriano&show_icons=true&theme=radical />
+    <img height="180em"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=kleisonvitoriano&layout=donut&theme=radical />
+   </a>
  </div>
  
 <div> 
@@ -23,3 +24,5 @@
   <a href="https://www.linkedin.com/in/kleison-vitoriano-da-silva-670852298/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snale animation](https://github.com/kleisonvitoriano/kleisonvitoriano/blob/output/github-contribution-grid-snake.svg)
